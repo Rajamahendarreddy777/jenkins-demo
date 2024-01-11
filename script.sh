@@ -1,5 +1,5 @@
 #!/bin/bash
 
 # This is a simple script
-echo "Hello, World I am world!"
+echo "Hello, World I am god!"
 
